@@ -1,0 +1,185 @@
+Origen,Destino,Tiempo,Linea
+Observatorio,Tacubaya,2,Rosa 1
+Tacubaya,Juanacatlan,2,Rosa
+Juanacatlan,Chapultepec,2,Rosa
+Chapultepec,Sevilla,2,Rosa
+Sevilla,Insurgentes,2,Rosa
+Insurgentes,Cuauhtemoc,2,Rosa
+Cuauhtemoc,Balderas,2,Rosa
+Balderas,Salto Del Agua,2,Rosa
+Salto Del Agua,Isabel La Catolica,2,Rosa
+Isabel La Catolica,Pino Suarez,2,Rosa
+Pino Suarez,Mereco,2,Rosa
+Mereco,Candelaria/Palacio Legislativo,2,Rosa
+Candelaria/Palacio Legislativo,San Lazaro,2,Rosa
+San Lazaro,Moctezuma,2,Rosa
+Moctezuma,Balbuena,2,Rosa
+Balbuena,Buolevar Puerto Aereo,2,Rosa
+Buolevar Puerto Aereo,Gomez Farias,2,Rosa
+Gomez Farias,Zaragoza,2,Rosa
+Zaragoza,Pantitlan,2,Rosa
+Cuatro Caminos,Panteones,2,Azul linea 2
+Panteones,Tacuba,2,Azul
+Tacuba,Cuitlahuac,2,Azul
+Cuitlahuac,Popotla,2,Azul
+Popotla,Colegio Militar,2,Azul
+Colegio Militar,Normal,2,Azul
+Normal,San Cosme,2,Azul
+San Cosme,Revolucion,2,Azul
+Revolucion,Hidalgo,2,Azul
+Hidalgo,Bellas Artes,2,Azul
+Bellas Artes,Allende,2,Azul
+Allende,Zocalo/Tenochtitlan,2,Azul
+Zocalo/Tenochtitlan,Pino Suarez,2,Azul
+Pino Suarez,San Antonio Abad,2,Azul
+San Antonio Abad,Chabacano,2,Azul
+Chabacano,Viaducto,2,Azul
+Viaducto,Xola,2,Azul
+Xola,Villa De Cortes,2,Azul
+Villa De Cortes,Nativitas,2,Azul
+Nativitas,Portales,2,Azul
+Portales,Ermita,2,Azul
+Ermita,General Anaya,2,Azul
+General Anaya,Tasqueña,2,Azul
+Indios Verdes,Deportivo 18 De Marzo,2,Verde Olivo linea 3
+Deportivo 18 De Marzo,Potrero,2,Verde Olivo
+Potrero,La Raza,2,Verde Olivo
+La Raza,Tlatelolco,2,Verde Olivo
+Tlatelolco,Guerrero,2,Verde Olivo
+Guerrero,Hidalgo,2,Verde Olivo
+Hidalgo,Juarez,2,Verde Olivo
+Juarez,Balderas,2,Verde Olivo
+Balderas,Niños Heroes/Poder Judicial CDMX,2,Verde Olivo
+Niños Heroes/Poder Judicial CDMX,Hospital General,2,Verde Olivo
+Hospital General,Centro Medico,2,Verde Olivo
+Centro Medico,Etiopia / Plaza de la Transparencia,2,Verde Olivo
+Etiopia / Plaza de la Transparencia,Eugenia,2,Verde Olivo
+Eugenia,Division del Norte,2,Verde Olivo
+Division del Norte,Zapata,2,Verde Olivo
+Zapata,Coyoacan,2,Verde Olivo
+Coyoacan,Viveros / Derechos Humanos,2,Verde Olivo
+Viveros / Derechos Humanos,Miguel  Angel de Quevedo,2,Verde Olivo
+Miguel  Angel de Quevedo,Copilco,2,Verde Olivo
+Copilco,Universidad,2,Verde Olivo
+Martin Carrera,Talisman,2,Cian Linea 4
+Talisman,Bondojito,2,Cian
+Bondojito,Consulado,2,Cian
+Consulado,Canal del Norte,2,Cian
+Canal del Norte,Morelos,2,Cian
+Morelos,Candelaria/Palacio Legislativo,2,Cian
+Candelaria/Palacio Legislativo,Fray Servando,2,Cian
+Fray Servando,Jamaica,2,Cian
+Jamaica,Santa Anita,2,Cian
+Pantitlan,Hangares,2,Amarillo Linea 5
+Hangares,Terminal Aerea,2,Amarillo
+Terminal Aerea,Oceania,2,Amarillo
+Oceania,Aragon,2,Amarillo
+Aragon,Eduardo Molina,2,Amarillo
+Eduardo Molina,Consulado,2,Amarillo
+Consulado,Valle Gomez,2,Amarillo
+Valle Gomez,Misterios,2,Amarillo
+Misterios,La Raza,2,Amarillo
+La Raza,Autobuses del Norte,2,Amarillo
+Autobuses del Norte,Instituto del Petroleo,2,Amarillo
+Instituto del Petroleo,Politecnico,2,Amarillo
+El Rosario,Tezozomoc,2,Rojo Linea 6
+Tezozomoc,UAM-Azcapotzalco,2,Rojo
+UAM-Azcapotzalco,Ferreria/Arena Ciudad De Mexico,2,Rojo
+Ferreria/Arena Ciudad De Mexico,Norte 45,2,Rojo
+Norte 45,Vallejo,2,Rojo
+Vallejo,Instituto del Petroleo,2,Rojo
+Instituto del Petroleo,Lindavista,2,Rojo
+Lindavista,Deportivo 18 De Marzo,2,Rojo
+Deportivo 18 De Marzo,La Villa-Basilica,2,Rojo
+La Villa-Basilica,Martin Carrera,2,Rojo
+El Rosario,Aquiles Serdan,2,Naranja Linea 7
+Aquiles Serdan,Camarones,2,Naranja
+Camarones,Refineria,2,Naranja
+Refineria,Tacuba,2,Naranja
+Tacuba,San Joaquin,2,Naranja
+San Joaquin,Polanco,2,Naranja
+Polanco,Auditorio,2,Naranja
+Auditorio,Constituyentes,2,Naranja
+Constituyentes,Tacubaya,2,Naranja
+Tacubaya,San Pedro De Los Pinos,2,Naranja
+San Pedro De Los Pinos,San Antonio,2,Naranja
+San Antonio,Mixcoac,2,Naranja
+Mixcoac,Barranca Del Muerto,2,Naranja
+Garibaldi/Lagunilla,Bellas Artes,2,Vere Linea 8
+Bellas Artes,San Juan de Letran,2,Rojo
+San Juan de Letran,Salto Del Agua,2,Rojo
+Salto Del Agua,Doctores,2,Rojo
+Doctores,Obrera,2,Rojo
+Obrera,Chabacano,2,Rojo
+Chabacano,La viga,2,Rojo
+La viga,Santa Anita,2,Rojo
+Santa Anita,Coyuya,2,Rojo
+Coyuya,Iztacalco,2,Rojo
+Iztacalco,Apatlaco,2,Rojo
+Apatlaco,Aculco,2,Rojo
+Aculco,Escuadron 201,2,Rojo
+Escuadron 201,Atlalilco,2,Rojo
+Atlalilco,Iztapalapa,2,Rojo
+Iztapalapa,Cerro De La Estrella,2,Rojo
+Cerro De La Estrella,UAM-I,2,Rojo
+UAM-I,Constitucion 1917,2,Rojo
+Tacubaya,Patriotismo,2,Cafel Linea 9
+Patriotismo,Chilpancingo,2,Cafe
+Chilpancingo,Centro Medico,2,Cafe
+Centro Medico,Lazaro Cardenas,2,Cafe
+Lazaro Cardenas,Chabacano,2,Cafe
+Chabacano,Jamaica,2,Cafe
+Jamaica,Mixiuhca,2,Cafe
+Mixiuhca,Velodromo,2,Cafe
+Velodromo,Ciudad Deportiva,2,Cafe
+Ciudad Deportiva,Puebla,2,Cafe
+Puebla,Pantitlan,2,Cafe
+Pantitlan,Agricola Oriental,2,Morado Linea A
+Agricola Oriental,Canal De San Juan,2,Morado
+Canal De San Juan,Tepalcates,2,Morado
+Tepalcates,Guelatao,2,Morado
+Guelatao,Peñon Viejo,2,Morado
+Peñon Viejo,Acatitla,2,Morado
+Acatitla,Santa Marta,2,Morado
+Santa Marta,Los Reyes,2,Morado
+Los Reyes,La Paz,2,Morado
+Ciudad Azteca,Plaza Aragon,2,Gris Linea B
+Plaza Aragon,Olimpica,2,Gris
+Olimpica,Ecatepec,2,Gris
+Ecatepec,Muzquiz,2,Gris
+Muzquiz,Rio De Los Remedios,2,Gris
+Rio De Los Remedios,Impulsora,2,Gris
+Impulsora,Nezahualcototl,2,Gris
+Nezahualcototl,Villa De Aragon,2,Gris
+Villa De Aragon,Bosques De Aragon,2,Gris
+Bosques De Aragon,Deportivo Oceania,2,Gris
+Deportivo Oceania,Oceania,2,Gris
+Oceania,Romero Rubio,2,Gris
+Romero Rubio,Ricardo FloresMagon,2,Gris
+Ricardo FloresMagon,San Lazaro,2,Gris
+San Lazaro,Morelos,2,Gris
+Morelos,Tepito,2,Gris
+Tepito,Lagunilla,2,Gris
+Lagunilla,Garibaldi/Lagunilla,2,Gris
+Garibaldi/Lagunilla,Guerrero,2,Gris
+Guerrero,Buenavista,2,Gris
+Mixcoac,Insurgentes Sur,2,Dorada Linea 12
+Insurgentes Sur,Hospital  20 De Noviembre,2,Dorada
+Hospital  20 De Noviembre,Zapata,2,Dorada
+Zapata,Parque De Los Venados,2,Dorada
+Parque De Los Venados,Eje Central,2,Dorada
+Eje Central,Ermita,2,Dorada
+Ermita,Mexicaltzingo,2,Dorada
+Mexicaltzingo,Culhuacan,2,Dorada
+Culhuacan,San Andres Tomatlan,2,Dorada
+San Andres Tomatlan,Lomas Estrella,2,Dorada
+Lomas Estrella,Calle 11,2,Dorada
+Calle 11,Periferico Oriente,2,Dorada
+Periferico Oriente,Tezonco,2,Dorada
+Tezonco,Olivos,2,Dorada
+Olivos,Nopalera,2,Dorada
+Nopalera,Zapotitlan,2,Dorada
+Nopalera,Tlaltenco,2,Dorada
+Tlaltenco,Tlahuac,2,Dorada
+,,,
+,,,
